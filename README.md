@@ -1,16 +1,36 @@
-## Hi there 👋
+# Muhammad Abdullah
 
-<!--
-**MAbdullahDev01/MAbdullahDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm a high school student exploring AI, algorithms, and full-stack development. I build projects that solve real-world problems and document my learning along the way.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 CS Interests
+- AI & Machine Learning 🤖  
+- Algorithms & Data Structures 📚  
+- Web & Full-Stack Development 🌐  
+- Data Science & Visualization 📊  
+
+---
+
+## 🚀 Highlighted Projects
+| Project | Description | Tech & Skills | Link |
+|---------|------------|---------------|------|
+| **AI Image Classifier** | Built a CNN from scratch; achieved 85% accuracy on CIFAR-10 dataset | Python, NumPy, TensorFlow | [Repo](#) |
+| **Personal Portfolio Website** | Full-stack website showcasing projects and blog | React, Flask, HTML/CSS | [Repo](#) |
+| **Algorithms Visualizer** | Interactive visualizations of sorting & graph algorithms | Python, Matplotlib, Tkinter | [Repo](#) |
+
+*Tip: Include screenshots or GIFs below each project.*
+
+---
+
+## 📈 Learning Journey
+- 50+ algorithm challenges solved (LeetCode & HackerRank)  
+- Explored AI & ML through mini-projects & paper replication  
+- Contributed to beginner-friendly open-source projects  
+
+---
+
+## 📫 Contact / Links
+- [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-6a769733a/)  
+- [Portfolio](#)  
+- [Email](mailto:abdullahiqbal2008@gmail.com)
