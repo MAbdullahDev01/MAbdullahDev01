@@ -13,20 +13,22 @@
 ---
 
 ## 🚀 Highlighted Projects
-| Project | Description | Tech & Skills | Link |
-|---------|------------|---------------|------|
-| **AI Image Classifier** | Built a CNN from scratch; achieved 85% accuracy on CIFAR-10 dataset | Python, NumPy, TensorFlow | [Repo](#) |
-| **Personal Portfolio Website** | Full-stack website showcasing projects and blog | React, Flask, HTML/CSS | [Repo](#) |
-| **Algorithms Visualizer** | Interactive visualizations of sorting & graph algorithms | Python, Matplotlib, Tkinter | [Repo](#) |
+| Project                           | Description                                                                                                                                                                                                     | Tech & Skills                                | Link                                                |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------- |
+| **RoadSight – Road Condition AI** | Built a full-stack web app that classifies road conditions from user-uploaded images (damage vs no damage) using a fine-tuned ResNet18 model; integrated frontend, backend, and ML pipeline into a polished MVP | Python, PyTorch, FastAPI, React, TailwindCSS | [Repo](https://github.com/MAbdullahDev01/RoadSight) |
+| **Personal Portfolio Website**    | Built a full-stack website to showcase projects, blog posts, and professional portfolio; includes dynamic routing, responsive design, and content management                                                    | React, Flask, TailwindCSS                    | [Repo](#)                                           |
+| **Algorithms Visualizer**         | Developed an interactive application to visualize sorting and graph algorithms in real-time, with dynamic step-by-step animations and user controls                                                             | Python, Matplotlib, Tkinter                  | [Repo](#)                                           |
 
-*Tip: Include screenshots or GIFs below each project.*
 
 ---
 
-## 📈 Learning Journey
-- 50+ algorithm challenges solved (LeetCode & HackerRank)  
-- Explored AI & ML through mini-projects & paper replication  
-- Contributed to beginner-friendly open-source projects  
+## 📈 Learning Journey 
+- Explored AI & ML through mini-projects and paper replication, gaining practical experience in model training, inference, and evaluation
+- Learned full-stack development by building projects that connect frontend, backend, and ML pipelines
+- Practiced algorithmic thinking and problem-solving through interactive visualizations and coding exercises
+- Gained experience with Python, JavaScript, React, TailwindCSS, PyTorch, FastAPI, Flask, and Matplotlib
+- Developed software engineering best practices: version control, modular architecture, testing, and documentation
+- Continuously improving debugging, optimization, and deployment skills for real-world applications 
 
 ---
 
