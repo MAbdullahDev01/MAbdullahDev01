@@ -12,13 +12,21 @@
 
 ---
 
-## 🚀 Highlighted Projects
-| Project                           | Description                                                                                                                                                                                                     | Tech & Skills                                | Link                                                |
-| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | --------------------------------------------------- |
-| **RoadSight – Road Condition AI** | Built a full-stack web app that classifies road conditions from user-uploaded images (damage vs no damage) using a fine-tuned ResNet18 model; integrated frontend, backend, and ML pipeline into a polished MVP | Python, PyTorch, FastAPI, React, TailwindCSS | [Repo](https://github.com/MAbdullahDev01/RoadSight) |
-| **Personal Portfolio Website**    | Built a full-stack website to showcase projects, blog posts, and professional portfolio; includes dynamic routing, responsive design, and content management                                                    | React, Flask, TailwindCSS                    | [Repo](#)                                           |
-| **Algorithms Visualizer**         | Developed an interactive application to visualize sorting and graph algorithms in real-time, with dynamic step-by-step animations and user controls                                                             | Python, Matplotlib, Tkinter                  | [Repo](#)                                           |
+## 📊 GitHub Stats
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=MAbdullahDev01&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195px" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAbdullahDev01&layout=compact&theme=tokyonight&langs_count=6" alt="Most Used Languages" height="195px" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAbdullahDev01&theme=tokyonight" alt="GitHub Streak" height="195px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,12 +40,6 @@
 
 ---
 
-## 📫 Contact / Links
-- [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-6a769733a/)  
-- [Portfolio](#)  
-- [Email](mailto:abdullahiqbal2008@gmail.com)
-
---- 
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -61,3 +63,10 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 </div>
+
+---
+
+## 📫 Contact / Links
+- [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-6a769733a/)  
+- [Portfolio](#)  
+- [Email](mailto:abdullahiqbal2008@gmail.com)
